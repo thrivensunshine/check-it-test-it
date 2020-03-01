@@ -1,1 +1,1 @@
-jusy a quick repo to check git
+just a quick repo to check git
