@@ -1,1 +1,1 @@
-jusy a quick repo t check git
+jusy a quick repo to check git
